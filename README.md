@@ -240,17 +240,6 @@ A project exploring AI-assisted content analysis and trust-oriented digital expe
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tusharmendhule&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmendhule&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
----
-
 ## 🎯 Currently Leveling Up
 
 <div align="center">
