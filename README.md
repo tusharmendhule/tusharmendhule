@@ -235,43 +235,6 @@ A project exploring AI-assisted content analysis and trust-oriented digital expe
 
 </div>
 
----
-
-## 🧩 How I Think About Development
-
-<div align="center">
-
-```text
-       IDEA
-        │
-        ▼
-   ┌───────────┐
-   │  RESEARCH │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │  DESIGN   │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   BUILD   │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   TEST    │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │  IMPROVE  │
-   └─────┬─────┘
-         │
-         ▼
-      🚀 SHIP
-```
 
 </div>
 
@@ -286,27 +249,6 @@ A project exploring AI-assisted content analysis and trust-oriented digital expe
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmendhule&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
 
 </div>
-
----
-
-## 🔥 Coding Consistency
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tusharmendhule&hide_border=true&background=00000000&ring=38BDF8&fire=7C3AED&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharmendhule&bg_color=00000000&color=38BDF8&line=2563EB&point=7C3AED&area=true&hide_border=true&custom_title=Tushar's%20Contribution%20Activity" width="95%"/>
-
-</div>
-
 ---
 
 ## 🎯 Currently Leveling Up
@@ -322,46 +264,6 @@ A project exploring AI-assisted content analysis and trust-oriented digital expe
 | 🤖 AI/ML           | Intelligent Applications |
 | 🧠 Problem Solving | Algorithms & Logic       |
 | 🔗 APIs            | REST & Integration       |
-
-</div>
-
----
-
-## 🗺️ My Developer Roadmap
-
-```text
-2026
-│
-├── ☕ Java + DSA
-│   ├── Core Java
-│   ├── OOP
-│   ├── Collections
-│   └── Problem Solving
-│
-├── 🌐 Full Stack
-│   ├── React
-│   ├── Node.js
-│   ├── Express
-│   └── MongoDB
-│
-├── 🤖 AI
-│   ├── Machine Learning
-│   ├── Computer Vision
-│   └── AI-powered Applications
-│
-└── 🚀 Career
-    ├── Real-world Projects
-    ├── Open Source
-    └── Software Development Roles
-```
-
----
-
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tusharmendhule&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
