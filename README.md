@@ -1,5 +1,5 @@
 <div align="center">
-
+             
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:2563eb,100:7c3aed&height=240&section=header&text=TUSHAR%20MENDHULE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20AI%2FML%20ENTHUSIAST&descAlignY=65&descColor=dbeafe&stroke=38bdf8&strokeWidth=2" width="100%"/>
 
 <br/>
