@@ -1,177 +1,162 @@
-# Tushar Mendhule | GitHub Profile
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Mendhule;Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Technology+Student;Building+Real-World+Projects" alt="Typing SVG" />
+# 👋 Hi, I'm Tushar Mendhule
+
+### `Full Stack Developer` · `AI/ML Enthusiast` · `Computer Technology Student`
 
 <p>
   <a href="https://github.com/tusharmendhule">
-    <img src="https://img.shields.io/github/followers/tusharmendhule?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/tusharmendhule?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-11-58A6FF?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/tusharmendhule">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tusharmendhule&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+  <a href="https://tusharmendhule.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=tusharmendhule&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
+
+I'm **Tushar Mendhule**, a B.Tech Computer Technology student focused on building practical software using **Full Stack Development, Artificial Intelligence, and modern web technologies**.
+
+* 🎓 B.Tech in Computer Technology
+* 💻 Building full-stack web applications
+* 🤖 Exploring AI/ML and intelligent applications
+* 🌱 Currently strengthening Java, DSA, React & backend development
+* 🧩 Interested in solving real-world problems through software
+* 🎯 Open to software development & internship opportunities
+
+---
+
+## ⚡ What I Build
 
 ```text
-🎓 B.Tech Computer Technology Student
-💻 Full Stack Web Developer
-🤖 AI/ML & Data Analytics Enthusiast
-🚀 Building practical, real-world applications
-🌱 Currently improving Java, React, Node.js & AI/ML
-🎯 Interested in Software Development & AI Engineering
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🌐 Full Stack Applications                               │
+│   🤖 AI / ML Applications                                   │
+│   📊 Data-Driven Platforms                                 │
+│   🛒 E-Commerce Systems                                    │
+│   🌾 Smart Agriculture Solutions                           │
+│   🏥 AI-Powered Healthcare Tools                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-I enjoy turning ideas into functional applications using modern web technologies and AI.
-
-My goal is to build **useful, scalable and industry-oriented software** while continuously improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### 🗄️ Database & Cloud
+### Database & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🌟 Featured Projects
 
 ### 🌾 AgroIntelX
 
-AI-powered smart agriculture platform.
+> **AI-powered smart agriculture platform**
 
-**Features**
+An intelligent agriculture solution designed to help farmers make better decisions using AI and data.
 
-* 🌱 Crop Recommendation
-* 🦠 Plant Disease Detection
-* 🌦️ Weather Intelligence
-* 🧪 Soil Analysis
-* 💧 Irrigation Recommendation
-* 📊 Yield Prediction
+**Highlights**
 
-**Tech:** React • TypeScript • AI/ML • FastAPI
+* 🌱 Crop recommendation
+* 🦠 Plant disease detection
+* 🌦️ Weather intelligence
+* 🧪 Soil analysis
+* 💧 Irrigation recommendations
+* 📊 Yield prediction
+
+**Stack:** `React` · `TypeScript` · `FastAPI` · `AI/ML`
 
 <a href="https://github.com/tusharmendhule/AgrointelX">
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-### 🏥 MedIntel AI
-
-AI-based medical report analysis platform.
-
-**Features**
-
-* 📄 Report Analysis
-* 🤖 AI Assistance
-* 🔍 Information Extraction
-* 📊 Easy-to-understand Results
-* 🌐 Modern Web Interface
-
-**Tech:** React • TypeScript • AI
-
-<a href="https://github.com/tusharmendhule/medintel-ai">
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 ShpNex
-
-Modern full-stack e-commerce platform.
-
-**Features**
-
-* 🛍️ Product Management
-* 🛒 Shopping Cart
-* 🔐 Authentication
-* 📦 Order Management
-* 💳 E-commerce Workflow
-* 📱 Responsive UI
-
-**Tech:** React • Node.js • Express • MongoDB
-
-<a href="https://github.com/tusharmendhule/shopnex">
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI & Full Stack Projects
-
-I continuously work on projects combining:
-
-* Artificial Intelligence
-* Machine Learning
-* Full Stack Development
-* Data Analytics
-* Modern UI/UX
-
-<a href="https://github.com/tusharmendhule?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📊 GitHub Statistics
+### 🏥 MedIntel AI
+
+> **AI-powered medical report analysis platform**
+
+A modern application designed to simplify complex medical information and make reports easier to understand.
+
+**Highlights**
+
+* 📄 Medical report analysis
+* 🤖 AI-assisted interpretation
+* 🔍 Information extraction
+* 📊 Structured results
+* 💻 Modern responsive interface
+
+**Stack:** `React` · `TypeScript` · `AI`
+
+<a href="https://github.com/tusharmendhule/medintel-ai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🛒 ShpNex
+
+> **Full-stack e-commerce platform**
+
+A modern e-commerce application focused on a complete online shopping workflow.
+
+**Highlights**
+
+* 🛍️ Product management
+* 🛒 Shopping cart
+* 🔐 Authentication
+* 📦 Order workflow
+* 📱 Responsive UI
+* ⚙️ REST API backend
+
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB`
+
+<a href="https://github.com/tusharmendhule/shopnex">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharmendhule&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tusharmendhule&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmendhule&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmendhule&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -181,27 +166,27 @@ I continuously work on projects combining:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tusharmendhule&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tusharmendhule&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tusharmendhule&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=tusharmendhule&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharmendhule&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharmendhule&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=24292F&area=true&hide_border=true"/>
 
 </div>
 
@@ -210,46 +195,48 @@ I continuously work on projects combining:
 ## 🎯 Current Focus
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  ☕ Java & DSA                                      │
-│  ⚛️  React & Modern Frontend                        │
-│  🟢 Node.js & Backend Development                   │
-│  🤖 Artificial Intelligence & Machine Learning      │
-│  🗄️ MongoDB & Database Design                      │
-│  🚀 Building Industry-Level Projects                │
-│  💼 Preparing for Software Development Roles        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+Java & DSA                 ███████████████░░░
+React & Frontend           ████████████████░░
+Node.js & Backend          ███████████████░░░
+AI / Machine Learning      ████████████░░░░░░
+MongoDB & APIs             ███████████████░░░
+System Design              █████████░░░░░░░░░
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Open To
+
+<div align="center">
+
+`Software Development Internships`
+`Full Stack Development`
+`AI/ML Projects`
+`Open Source Collaboration`
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/tusharmendhule">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/tusharmendhule">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://tusharmendhule.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=tusharmendhule&label=Visitors&style=flat-square"/>
 
 </div>
 
@@ -257,10 +244,8 @@ I continuously work on projects combining:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Build. Learn. Improve. Repeat.
 
-**If you like my work, consider giving my repositories a ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
+**Thanks for visiting my profile!**
 
 </div>
