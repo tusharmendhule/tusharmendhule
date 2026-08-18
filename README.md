@@ -95,7 +95,7 @@ I like taking an idea, designing the system behind it, and turning it into a wor
 
 </div>
 
-### 🗄️ Databases & Services
+### 🗄️ Databases & Services             
 
 <div align="center">
 
