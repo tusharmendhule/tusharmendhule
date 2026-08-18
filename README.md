@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%92%BB+Building+Modern+Web+Applications;%F0%9F%A4%96+Exploring+Artificial+Intelligence;%F0%9F%9A%80+Turning+Ideas+Into+Real+Projects;%F0%9F%A7%A0+Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
-<br/><br/>
+<br/><br/>     
 
 <img src="https://komarev.com/ghpvc/?username=tusharmendhule&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 &nbsp;
